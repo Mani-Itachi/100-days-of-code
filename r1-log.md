@@ -25,3 +25,12 @@ Fixed minor bugs in [Simple note](https://github.com/me-manikanta/Simple-Note) a
 ### R1D7
 Started a new Project called [Snake AI](https://github.com/me-manikanta/Snake-Game-AI) and created a repository for the same
 Completed writing the main functionality of the game
+
+### R1D8
+Completed writing [Matrix](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/Matrix.pde) class and [NeuralNetwork](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/NeuralNetwork.pde) class for the game AI
+
+[Matrix](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/Matrix.pde) class contains all the possible matrix operations that are possibly required 
+
+[NeuralNetwork](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/NeuralNetwork.pde) class contains the entire structure of the neural network of the snake game
+
+I made these 2 classes such that anyone or even myself can use these 2 classes, if there is any neural network involved in the respective project
