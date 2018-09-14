@@ -34,3 +34,6 @@ Completed writing [Matrix](https://github.com/me-manikanta/Snake-Game-AI/blob/ma
 [NeuralNetwork](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/NeuralNetwork.pde) class contains the entire structure of the neural network of the snake game
 
 I made these 2 classes such that anyone or even myself can use these 2 classes, if there is any neural network involved in the respective project
+
+### R1D9
+Created [Population](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/Population.pde) class and [World](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/World.pde) class, population represents a bunch of snakes whereas world represents a bunch of species or population. Added fitness function to the snake. The game AI is perfectly running with a highscore of 8 after 100 generations
