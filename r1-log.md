@@ -37,3 +37,6 @@ I made these 2 classes such that anyone or even myself can use these 2 classes, 
 
 ### R1D9
 Created [Population](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/Population.pde) class and [World](https://github.com/me-manikanta/Snake-Game-AI/blob/master/Snake_AI/World.pde) class, population represents a bunch of snakes whereas world represents a bunch of species or population. Added fitness function to the snake. The game AI is perfectly running with a highscore of 8 after 100 generations
+
+### R1D10
+Added some of the minor functionalities that are required by the AI
