@@ -40,3 +40,10 @@ Created [Population](https://github.com/me-manikanta/Snake-Game-AI/blob/master/S
 
 ### R1D10
 Added some of the minor functionalities that are required by the AI
+
+### R1D11
+Didn't code much but learned some core concepts of android and ML
+
+### R1D12
+Started Calendar app, I started this so as to improve my skillset more by making this app so much user friendly.
+Inspration for this app came from [SimpleCalendar](https://github.com/SimpleMobileTools/Simple-Calendar) app and probably most of the code will be a replica of the same.
