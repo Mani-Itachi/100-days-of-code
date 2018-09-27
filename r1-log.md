@@ -47,3 +47,6 @@ Didn't code much but learned some core concepts of android and ML
 ### R1D12
 Started Calendar app, I started this so as to improve my skillset more by making this app so much user friendly.
 Inspration for this app came from [SimpleCalendar](https://github.com/SimpleMobileTools/Simple-Calendar) app and probably most of the code will be a replica of the same.
+
+### R1D13
+This is after a long pause as I have gone for a trip. Started a new RL [course](theschool.ai) by Siraj Raval. Created a new [Repository](https://github.com/me-manikanta/Move-37-Course) for the same. Updated the code for introduction to RL.
