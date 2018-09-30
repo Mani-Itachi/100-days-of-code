@@ -50,3 +50,9 @@ Inspration for this app came from [SimpleCalendar](https://github.com/SimpleMobi
 
 ### R1D13
 This is after a long pause as I have gone for a trip. Started a new RL [course](theschool.ai) by Siraj Raval. Created a new [Repository](https://github.com/me-manikanta/Move-37-Course) for the same. Updated the code for introduction to RL.
+
+### R1D14
+Created a Sensor Network folder but completed writing the code of only GridWorld.py
+
+### R1D15
+Completed the Sensor Network code and learned about Markov's law and Bellman equation
