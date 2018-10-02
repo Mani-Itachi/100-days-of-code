@@ -56,3 +56,10 @@ Created a Sensor Network folder but completed writing the code of only GridWorld
 
 ### R1D15
 Completed the Sensor Network code and learned about Markov's law and Bellman equation
+
+### R1D16
+Completed writing the Code of Sports betting using value iteration(This is the part of RL course)
+
+### R1D17
+Completer writing the code of iPhoneXSSupplyChain using policy iteration(This is the part of RL course)
+Completed the Week 1 assignment of AndrewNG course
