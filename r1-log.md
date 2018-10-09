@@ -61,5 +61,8 @@ Completed the Sensor Network code and learned about Markov's law and Bellman equ
 Completed writing the Code of Sports betting using value iteration(This is the part of RL course)
 
 ### R1D17
-Completer writing the code of iPhoneXSSupplyChain using policy iteration(This is the part of RL course)
+Completed writing the code of iPhoneXSSupplyChain using policy iteration(This is the part of RL course)
 Completed the Week 1 assignment of AndrewNG course
+
+### R1D18
+Completed writing the code for Value Iteration and Random policy for Frozen-lake environment
